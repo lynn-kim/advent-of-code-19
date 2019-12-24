@@ -9,3 +9,5 @@ for x in file:
     total_fuel += curr
 
 print("The total fuel required is", total_fuel)
+
+file.close()
